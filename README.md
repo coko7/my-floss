@@ -1,6 +1,6 @@
 # 🪥 my-floss
 
-![my-floss-logo](./assets/my-floss-logo-full.png)
+![my-floss-logo](./assets/my-floss-logo.png)
 
 The complete list of <a href="https://wikipedia.org/wiki/Free_and_open-source_software">FLOSS</a> apps I use every day.
 
