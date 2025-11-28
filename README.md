@@ -25,6 +25,10 @@ If privacy is important to you and you are looking for apps and services that do
 
 ### Sites
 
+- [FMHY](https://fmhy.net/)
+- Megathread:
+    - [rentry.co](https://rentry.co/megathread)
+    - [reddit.com](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [AlternativeTo](https://alternativeto.net/)
     - [The ultimate F-Droid setup (300+ Apps)](https://alternativeto.net/lists/28655/the-ultimate-f-droid-setup/)
 - [Privacy Guides](https://www.privacyguides.org/)
