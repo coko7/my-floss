@@ -1,4 +1,4 @@
-# 🪥 my-floss
+# 🐧 my-floss
 
 ![my-floss-logo](./assets/my-floss-logo.png)
 
