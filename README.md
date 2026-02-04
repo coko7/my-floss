@@ -9,11 +9,7 @@ I have split the full list into per-platform sub lists:
 - 🖥️ [Desktop](./desktop.md)
 - 🌐 [Web](./web.md)
 
-## 📚 Resources
-
-If privacy is important to you and you are looking for apps and services that do not steal your personal data.
-
-### Awesome Git lists
+## 🚀 Awesome Git lists
 
 | Repository                                                                                        | Stars                                                                                                         |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -23,7 +19,7 @@ If privacy is important to you and you are looking for apps and services that do
 | [offa/android-foss](https://github.com/offa/android-foss)                                         | ![GitHub Repo stars](https://img.shields.io/github/stars/offa/android-foss?style=flat)                        |
 | [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)                                 | ![GitHub Repo stars](https://img.shields.io/github/stars/pluja/awesome-privacy?style=flat)                    |
 
-### Sites
+## 🌐 Sites
 
 - [FMHY](https://fmhy.net/)
 - Megathread:
@@ -34,3 +30,21 @@ If privacy is important to you and you are looking for apps and services that do
 - [Privacy Guides](https://www.privacyguides.org/)
 - [Privacy Tools](https://www.privacytools.io/)
 - [The New Oil](https://thenewoil.org/)
+- [European Alternatives](https://european-alternatives.eu/)
+- [European Open Source Awards](https://europeanopensource.academy/)
+
+## 🧑‍🤝‍🧑 Associations
+
+- [TupperVim](https://tuppervim.org/)
+- [Aldil](https://www.aldil.org/)
+- [Lyon Tech Hub](https://www.lyontechhub.org/)
+- [Parinux](https://parinux.org/)
+
+## 🎉 Events
+
+- 🇫🇷 [AlpOSS](https://alposs.fr/)
+- 🇫🇷 [Capitole du Libre](https://capitoledulibre.org/)
+- 🇫🇷 [Journées du Logiciel Libre (JdLL)](https://www.jdll.org/)
+- 🇧🇪 [FOSDEM](https://fosdem.org/2026/)
+- 🇩🇪 [Chaos Computer Club (CCC)](https://www.ccc.de/en/)
+- 🌐 [Defcon](https://defcon.org/)
