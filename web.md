@@ -31,3 +31,4 @@
 - [SimpleLogin](https://simplelogin.io): Handy extension to manage your SimpleLogin aliases
 - [uBlock Origin](https://ublockorigin.com): Free and open-source ad content blocker (and more)
 - [Vimium](https://github.com/philc/vimium): The hacker's browser extension (brings custom Vim motions to your browser)
+- [anon.li](https://anon.li): Manage your email aliases & E2EE file drops.
