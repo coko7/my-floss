@@ -26,17 +26,18 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 
 ## 🎮 Games
 
+- [2050](https://github.com/mattvchandler/2050): 2048, but round!
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android): Anki flashcards on Android.
 - [Balatro](https://store.steampowered.com/app/2379780/Balatro) via [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker): A very addictive rogue-like card game made by one truly passionate individual.
 - [Chip Defense](https://github.com/ochadenas/cpudefense): Tower defense game centered around electric circuits and logical chips.
 - [Everest](https://github.com/mwageringel/everest): A mathematical puzzle game.
 - [IED](https://codeberg.org/Krixec/IED-FDroid): The cleanest 3D Minesweeper Game.
-- [IED](https://codeberg.org/Krixec/IED-FDroid): Very cool 3D Minesweeper game.
 - [Parlera](https://gitlab.com/enjoyingfoss/parlera): Word guessing party game, written in Flutter.
 - [Twisty Timer](https://github.com/aricneto/TwistyTimer): A puzzle timer that I use to record my times on 3x3 and other cubes.
 
 ## 🥗 Health & Fitness
 
+- [DigiPaws](https://github.com/nethical6/digipaws): Free App Blocker for android
 - [Feeel - home workouts](https://github.com/EnjoyingFOSS/feeel): A simple home workout/exercise app that respects your privacy.
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack): A privacy oriented fitness tracker for Android.
 - [Gadget Bridge](https://codeberg.org/Freeyourgadget/Gadgetbridge): An open-source app compatible with many gadgets (wearables, headphones, etc.).
@@ -45,7 +46,9 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 - [openScale](https://github.com/oliexdev/openScale): Weight and body metrics tracker, with support for Bluetooth scales.
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks): A sport tracker app that respects your privacy.
 - [Pedometer (PFA)](https://github.com/SecUSo/privacy-friendly-pedometer): Counts your steps in the background. Very cutomizable.
+- [RunnerUp](https://github.com/jonasoreland/runnerup): A open source run tracker
 - [Seasonal Foods Calendar](https://github.com/seasoncalendar/seasoncalendar): Very cool app that shows the different types of fruits/veggies available each month.
+- [TableHabit](https://github.com/FriesI23/mhabit): Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
 - [TimeR Machine](https://github.com/timer-machine/timer-machine-android): Highly customizable interval timer.
 
 ## 🗺️ Maps
@@ -54,7 +57,7 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 - [Organic Maps](https://github.com/organicmaps/organicmaps): Similar to OsmAnd+ but with less features and a more simplistic UI.
 - [OsmAnd+](https://github.com/osmandapp/OsmAnd): Very complete offline maps application using OpenStreetMap. Can be a little overwhelming in terms of UI.
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete): OpenStreetMap surveyor app. It feels like playing a video game.
-- [Transportr](https://github.com/grote/Transportr): Free Public Transport Assistant without Ads or Tracking. Works verry well.
+- [Transportr](https://github.com/grote/Transportr): Free Public Transport Assistant without Ads or Tracking
 
 ## 📷 Photos
 
@@ -62,9 +65,15 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 - [Open Camera](https://sourceforge.net/p/opencamera/code/ci/master/tree/): Open-source camera app with many features.
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif): Very handy to quickly remove the metadata from pictures.
 
-## 🍿 Read & Watch
+## 🍿 Read & Watch & Listen
 
+- [Fossify Music Player](https://github.com/FossifyOrg/Music-Player): A clean music player with a customizable widget, stylish interface and no ads.
 - [JellyFin](https://github.com/jellyfin/jellyfin-android): Mobile client for Jellyfin, a local media server.
+- [LiberaReader](https://github.com/foobnix/LibreraReader): Book Reader for Android
+- [Linux Command Libray](https://github.com/SimonSchubert/LinuxCommandLibrary): An offline Linux reference app with basic tips and formatted man pages.
+- [Man Man](https://gitlab.com/Kanedias/Man-Man): [www.mankier.com](https://www.mankier.com) Android client
+- [Mihon](https://github.com/mihonapp/mihon): Free and open source manga reader for Android
+- [Musify](https://github.com/gokadzev/Musify): Unlock the full potential of music: Stream effortlessly with one app!
 - [Nekome](https://github.com/Chesire/Nekome): Tracker for your anime and manga. It uses Kitsu for the database.
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
 - [Showly OSS](https://github.com/1RandomDev/showly-oss): Frontend client to [Trakt.tv](http://trakt.tv/) which I use to track TV shows and movies.
@@ -76,12 +85,13 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 ## 💬 Social & communication
 
 - [Element X](https://github.com/element-hq/element-x-android): Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose.
+- [Fossify Calendar](https://github.com/FossifyOrg/Calendar): A simple calendar with events, customizable widgets and no ads.
 - [Fossify Phone](https://github.com/FossifyOrg/Phone): Simple phone app (includes Caller ID spam block). Fork of Simple Gallery.
 - [Mastodon](https://github.com/mastodon/mastodon-android): Official Android app for Mastodon.
 - [Proton Calendar](https://proton.me): Calendar app from Proton. Installed via APK.
 - [Proton Mail](https://proton.me): Email app from Proton. Requires Google Play services for notifications (which I have not enabled but it still works well).
 - [Signal](https://github.com/signalapp/Signal-Android): Secure chat app with [E2EE](https://en.wikipedia.org/wiki/End-to-end_encryption). Requires a phone number to be used but it can be made private in settings.
-- [SimpleLogin | Anti-spam](https://github.com/simple-login/Simple-Login-Android): Service to create throwaway email aliases. Has very great integration with Proton Mail since they were bought by them a few years ago.
+- [SimpleLogin](https://github.com/simple-login/Simple-Login-Android): Service to create throwaway email aliases. Has very great integration with Proton Mail since they were bought by them a few years ago.
 
 ## 🛡️ Security
 
@@ -102,13 +112,16 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 - [Catima - Loyalty Card Wallet](https://github.com/CatimaLoyalty/Android): Small app to store loyalty cards and various coupons and tickets.
 - [Converter NOW](https://github.com/ferraridamiano/ConverterNOW): Simple unit converter app with a nice UI.
 - [Data Monitor](https://github.com/itsdrnoob/DataMonitor): Track your daily data usage.
+- [DAVx5](https://github.com/bitfireAT/davx5-ose): DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
 - [Feeder](https://github.com/spacecowboy/Feeder): Simple RSS reader for Android.
 - [Flipper](https://github.com/flipperdevices/Flipper-Android-App): To manage the [Flipper Zero](https://flipperzero.one) device.
 - [FOSDEM Companion](https://github.com/cbeyls/fosdem-companion-android): Schedule browser for FOSDEM events.
+- [FreeRDP](https://github.com/FreeRDP/FreeRDP): FreeRDP is a free remote desktop protocol library and clients.
 - [FUTO Keyboard](https://gitlab.futo.org/keyboard/latinime): A good open-source keyboard that doesn't spy on users.
 - [LibreSpeed](https://github.com/Kunzisoft/KeePassDX): Check your internet speed. Alternative to SpeedTest.
-- [Linux Command Libray](https://github.com/SimonSchubert/LinuxCommandLibrary): An offline Linux reference app with basic tips and formatted man pages.
+- [Markor](https://github.com/gsantner/markor): Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [ntfy](https://github.com/binwiederhier/ntfy-android): Android app for ntfy.sh.
+- [Qalculate!](https://github.com/jherkenhoff/qalculate-android): Powerful and versatile multi-purpose calculator for the Android platform
 - [RHVoice](https://github.com/RHVoice/RHVoice): TTS engine with extended languages support.
 - [SherpaTTS](https://github.com/woheller69/ttsengine): Android Text-to-Speech engine based on Next-gen Kaldi.
 - [Termux](https://github.com/termux/termux-app): Terminal emulator app for Android.
@@ -116,3 +129,4 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 ## 🤖 AI
 
 - [Lumo](https://github.com/ProtonLumo/android-lumo): Android application for Proton Lumo.
+- [ollama-app](https://github.com/JHubi1/ollama-app): A modern and easy-to-use client for Ollama
