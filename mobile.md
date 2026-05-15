@@ -119,6 +119,7 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 - [FOSDEM Companion](https://github.com/cbeyls/fosdem-companion-android): Schedule browser for FOSDEM events.
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP): FreeRDP is a free remote desktop protocol library and clients.
 - [FUTO Keyboard](https://gitlab.futo.org/keyboard/latinime): A good open-source keyboard that doesn't spy on users.
+- [Giggity](https://github.com/Wilm0r/giggity): Generic Android conference schedule viewer.
 - [LibreSpeed](https://github.com/Kunzisoft/KeePassDX): Check your internet speed. Alternative to SpeedTest.
 - [Markor](https://github.com/gsantner/markor): Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [ntfy](https://github.com/binwiederhier/ntfy-android): Android app for ntfy.sh.
