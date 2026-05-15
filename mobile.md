@@ -29,6 +29,7 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 - [2050](https://github.com/mattvchandler/2050): 2048, but round!
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android): Anki flashcards on Android.
 - [Balatro](https://store.steampowered.com/app/2379780/Balatro) via [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker): A very addictive rogue-like card game made by one truly passionate individual.
+- [Breakout 71](https://gitlab.com/lecarore/breakout71): An open source game about breaking bricks, catching coins and picking upgrades.
 - [Chip Defense](https://github.com/ochadenas/cpudefense): Tower defense game centered around electric circuits and logical chips.
 - [Everest](https://github.com/mwageringel/everest): A mathematical puzzle game.
 - [IED](https://codeberg.org/Krixec/IED-FDroid): The cleanest 3D Minesweeper Game.
