@@ -5,6 +5,7 @@
 The complete list of <a href="https://wikipedia.org/wiki/Free_and_open-source_software">FLOSS</a> apps I use every day.
 
 I have split the full list into per-platform sub lists:
+
 - 📱 [Mobile](./mobile.md)
 - 🖥️ [Desktop](./desktop.md)
 - 🌐 [Web](./web.md)
@@ -23,10 +24,10 @@ I have split the full list into per-platform sub lists:
 
 - [FMHY](https://fmhy.net/)
 - Megathread:
-    - [rentry.co](https://rentry.co/megathread)
-    - [reddit.com](https://www.reddit.com/r/Piracy/wiki/megathread)
+  - [rentry.co](https://rentry.co/megathread)
+  - [reddit.com](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [AlternativeTo](https://alternativeto.net/)
-    - [The ultimate F-Droid setup (300+ Apps)](https://alternativeto.net/lists/28655/the-ultimate-f-droid-setup/)
+  - [The ultimate F-Droid setup (300+ Apps)](https://alternativeto.net/lists/28655/the-ultimate-f-droid-setup/)
 - [Privacy Guides](https://www.privacyguides.org/)
 - [Privacy Tools](https://www.privacytools.io/)
 - [The New Oil](https://thenewoil.org/)
@@ -41,6 +42,9 @@ I have split the full list into per-platform sub lists:
 - [Parinux](https://parinux.org/)
 
 ## 🎉 Events
+
+> [!NOTE]
+> I use the [Giggity](https://github.com/Wilm0r/giggity) mobile app to keep track of FOSS events and meetups.
 
 - 🇫🇷 [AlpOSS](https://alposs.fr/)
 - 🇫🇷 [Capitole du Libre](https://capitoledulibre.org/)
